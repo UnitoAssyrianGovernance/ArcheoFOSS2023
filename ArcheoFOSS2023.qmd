@@ -1005,7 +1005,7 @@ Alessio Palmisano ([alessio.palmisano@unito.it](mailto:alessio.palmisano@unito.i
 
 <br>
 
- {{< ai zenodo >}} <https://zenodo.org/doi/10.5281/zenodo.10369518>
+ {{< ai zenodo >}} <https://zenodo.org/doi/10.5281/zenodo.10370486  >
 
  {{< bi github >}} [Slides Source Code](https://github.com/UnitoAssyrianGovernance/ArcheoFOSS2023) - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 

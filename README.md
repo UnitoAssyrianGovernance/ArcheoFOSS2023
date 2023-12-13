@@ -1,2 +1,3 @@
 # ArcheoFOSS2023
-Abstracts, text, slides etc. for ArcheoFOSS conference (Turin 12-13 December 2023)
+
+Code for slides for the ArcheoFOSS conference (Turin 12-13 Dec 2023)
